@@ -1,0 +1,99 @@
+Initial prompt for co pilot 
+{
+  "I am planning a simple project for a Typing Speed Test Website built with HTML, CSS and JavaScript. The goal is to create an intuitive and user-friendly platform that allows users to test and improve their typing speed."
+
+Features needed:
+Responsive design on desktop, tablet, and mobile devices.
+Easy way to start the test.
+Levels of difficulty and a selection of text passages.
+Show a paragraph of text for users to type and measure speed.
+Input area for typing the displayed text.
+Typing speed in Words Per Minute (WPM) displayed after the test.
+Retry option:
+Give real-time feedback on typing accuracy.Users have clear instructions for taking the test.Display users’ best results for comparison.
+
+Generate user stories in the following format: As a <persona>, I want to <action> so that I can <result>.  
+}
+
+
+
+
+user stories created by co pilot 
+{
+
+Here are the user stories for your Typing Speed Test Website project:
+
+1. As a user, I want to start the typing test easily so that I can quickly begin testing my typing speed.
+2. As a user, I want the website to be responsive so that I can use it on desktop, tablet, and mobile devices.
+3. As a user, I want to select different levels of difficulty so that I can challenge myself appropriately.
+4. As a user, I want to choose from a selection of text passages so that I can practice typing different types of content.
+5. As a user, I want to see a paragraph of text to type so that I can measure my typing speed.
+6. As a user, I want an input area to type the displayed text so that I can participate in the test.
+7. As a user, I want to see my typing speed in Words Per Minute (WPM) after the test so that I can know how fast I type.
+8. As a user, I want a retry option so that I can take the test again to improve my speed.
+9. As a user, I want real-time feedback on my typing accuracy so that I can correct my mistakes as I type.
+10. As a user, I want clear instructions for taking the test so that I understand how to participate.
+11. As a user, I want to see my best results so that I can compare my performance over time.
+}
+
+
+Acceptance Critera for each user story {
+
+    Here are the acceptance criteria for each user story:
+
+As a user, I want to start the typing test easily so that I can quickly begin testing my typing speed.
+
+Acceptance Criteria:
+A "Start Test" button is present on the homepage.
+Clicking the "Start Test" button begins the typing test.
+As a user, I want the website to be responsive so that I can use it on desktop, tablet, and mobile devices.
+
+Acceptance Criteria:
+The website layout adjusts appropriately for different screen sizes (desktop, tablet, mobile).
+All elements are accessible and usable on all devices.
+As a user, I want to select different levels of difficulty so that I can challenge myself appropriately.
+
+Acceptance Criteria:
+A dropdown or selection menu is available to choose difficulty levels (e.g., easy, medium, hard).
+Different text passages are provided based on the selected difficulty level.
+As a user, I want to choose from a selection of text passages so that I can practice typing different types of content.
+
+Acceptance Criteria:
+A list or dropdown menu is available to select different text passages.
+The selected text passage is displayed for the typing test.
+As a user, I want to see a paragraph of text to type so that I can measure my typing speed.
+
+Acceptance Criteria:
+A paragraph of text is displayed on the screen for the user to type.
+The text is clearly visible and easy to read.
+As a user, I want an input area to type the displayed text so that I can participate in the test.
+
+Acceptance Criteria:
+An input area is provided below the displayed text.
+The input area is focused and ready for typing when the test starts.
+As a user, I want to see my typing speed in Words Per Minute (WPM) after the test so that I can know how fast I type.
+
+Acceptance Criteria:
+The typing speed in WPM is calculated and displayed after the user completes the test.
+The result is shown in a clear and readable format.
+As a user, I want a retry option so that I can take the test again to improve my speed.
+
+Acceptance Criteria:
+A "Retry" button is available after the test is completed.
+Clicking the "Retry" button resets the test and allows the user to start again.
+As a user, I want real-time feedback on my typing accuracy so that I can correct my mistakes as I type.
+
+Acceptance Criteria:
+Real-time feedback is provided as the user types (e.g., highlighting errors).
+Correct and incorrect characters are visually distinguished.
+As a user, I want clear instructions for taking the test so that I understand how to participate.
+
+Acceptance Criteria:
+Instructions are displayed on the homepage or before the test starts.
+Instructions are concise and easy to understand.
+As a user, I want to see my best results so that I can compare my performance over time.
+
+Acceptance Criteria:
+The best results are stored and displayed to the user.
+A comparison of current and best results is shown after each test.
+}
